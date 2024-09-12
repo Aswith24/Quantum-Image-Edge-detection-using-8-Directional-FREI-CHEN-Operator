@@ -1,0 +1,1 @@
+# Quantum-Image-Edge-detection-using-8-Directional-FREI-CHEN-Operator
